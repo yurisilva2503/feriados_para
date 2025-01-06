@@ -3,88 +3,105 @@
     {
       "day": 1,
       "month": 1,
-      "holiday": "Feriado Nacional - Confraternização Universal"
+      "holiday": "Feriado Nacional - Confraternização Universal",
+      "year": 2024
     },
     {
       "day": 12,
       "month": 2,
-      "holiday": "Ponto Facultativo"
+      "holiday": "Ponto Facultativo",
+      "year": 2024
     },
     {
       "day": 13,
       "month": 2,
-      "holiday": "Ponto Facultativo - Carnaval"
+      "holiday": "Ponto Facultativo - Carnaval",
+      "year": 2024
     },
     {
       "day": 14,
       "month": 2,
       "holiday": "Ponto Facultativo - Quarta-feira de Cinzas (Até 12h)",
-      "morningLimit": true
+      "morningLimit": true,
+      "year": 2024
     },
     {
       "day": 29,
       "month": 3,
-      "holiday": "Feriado Nacional - Paixão de Cristo (Sexta-feira Santa)"
+      "holiday": "Feriado Nacional - Paixão de Cristo (Sexta-feira Santa)",
+      "year": 2024
     },
     {
       "day": 1,
       "month": 5,
-      "holiday": "Feriado Nacional - Dia Mundial do Trabalho"
+      "holiday": "Feriado Nacional - Dia Mundial do Trabalho",
+      "year": 2024
     },
     {
       "day": 30,
       "month": 5,
-      "holiday": "Feriado Nacional - Corpus Christi"
+      "holiday": "Feriado Nacional - Corpus Christi",
+      "year": 2024
     },
     {
       "day": 31,
       "month": 5,
-      "holiday": "Ponto Facultativo"
+      "holiday": "Ponto Facultativo",
+      "year": 2024
     },
     {
       "day": 15,
       "month": 8,
-      "holiday": "Feriado Estadual - Adesão do Pará à Independência do Brasil"
+      "holiday": "Feriado Estadual - Adesão do Pará à Independência do Brasil",
+      "year": 2024
     },
     {
       "day": 16,
       "month": 8,
-      "holiday": "Ponto Facultativo"
+      "holiday": "Ponto Facultativo",
+      "year": 2024
     },
     {
       "day": 14,
       "month": 10,
-      "holiday": "Ponto Facultativo - Pós Círio"
+      "holiday": "Ponto Facultativo - Pós Círio",
+      "year": 2024
     },
     {
       "day": 1,
       "month": 11,
-      "holiday": "Transferência de Ponto Facultativo (Dia do Servidor Público) - Portaria 0464/2024 - SEPLAD"
+      "holiday": "Transferência de Ponto Facultativo (Dia do Servidor Público) - Portaria 0464/2024 - SEPLAD",
+      "year": 2024
     },
     {
       "day": 15,
       "month": 11,
-      "holiday": "Feriado Nacional - Proclamação da República"
+      "holiday": "Feriado Nacional - Proclamação da República",
+      "year": 2024
     },
     {
       "day": 20,
       "month": 11,
-      "holiday": "Feriado Nacional - Dia Nacional de Zumbi e da Consciência Negra"
+      "holiday": "Feriado Nacional - Dia Nacional de Zumbi e da Consciência Negra",
+      "year": 2024
     },
     {
       "day": 24,
       "month": 12,
-      "holiday": "Ponto Facultativo - Véspera de Natal"
+      "holiday": "Ponto Facultativo - Véspera de Natal",
+      "year": 2024
     },
     {
       "day": 25,
       "month": 12,
-      "holiday": "Feriado Nacional - Natal"
+      "holiday": "Feriado Nacional - Natal",
+      "year": 2024
     },
     {
       "day": 31,
       "month": 12,
-      "holiday": "Ponto Facultativo - Véspera de Ano Novo"
+      "holiday": "Ponto Facultativo - Véspera de Ano Novo",
+      "year": 2024
     }
   ],
 
@@ -92,82 +109,98 @@
     {
       "day": 1,
       "month": 1,
-      "holiday": "Feriado Nacional - Confraternização Universal"
+      "holiday": "Feriado Nacional - Confraternização Universal",
+      "year": 2024
     },
     {
       "day": 12,
       "month": 2,
-      "holiday": "Ponto Facultativo"
+      "holiday": "Ponto Facultativo",
+      "year": 2024
     },
     {
       "day": 13,
       "month": 2,
-      "holiday": "Ponto Facultativo - Carnaval"
+      "holiday": "Ponto Facultativo - Carnaval",
+      "year": 2024
     },
     {
       "day": 29,
       "month": 3,
-      "holiday": "Feriado Nacional - Paixão de Cristo (Sexta-feira Santa)"
+      "holiday": "Feriado Nacional - Paixão de Cristo (Sexta-feira Santa)",
+      "year": 2024
     },
     {
       "day": 1,
       "month": 5,
-      "holiday": "Feriado Nacional - Dia Mundial do Trabalho"
+      "holiday": "Feriado Nacional - Dia Mundial do Trabalho",
+      "year": 2024
     },
     {
       "day": 30,
       "month": 5,
-      "holiday": "Feriado Nacional - Corpus Christi"
+      "holiday": "Feriado Nacional - Corpus Christi",
+      "year": 2024
     },
     {
       "day": 31,
       "month": 5,
-      "holiday": "Ponto Facultativo"
+      "holiday": "Ponto Facultativo",
+      "year": 2024
     },
     {
       "day": 15,
       "month": 8,
-      "holiday": "Feriado Estadual - Adesão do Pará à Independência do Brasil"
+      "holiday": "Feriado Estadual - Adesão do Pará à Independência do Brasil",
+      "year": 2024
     },
     {
       "day": 16,
       "month": 8,
-      "holiday": "Ponto Facultativo"
+      "holiday": "Ponto Facultativo",
+      "year": 2024
     },
     {
       "day": 14,
       "month": 10,
-      "holiday": "Ponto Facultativo - Pós Círio"
+      "holiday": "Ponto Facultativo - Pós Círio",
+      "year": 2024
     },
     {
       "day": 1,
       "month": 11,
-      "holiday": "Transferência de Ponto Facultativo (Dia do Servidor Público) - Portaria 0464/2024 - SEPLAD"
+      "holiday": "Transferência de Ponto Facultativo (Dia do Servidor Público) - Portaria 0464/2024 - SEPLAD",
+      "year": 2024
     },
     {
       "day": 15,
       "month": 11,
-      "holiday": "Feriado Nacional - Proclamação da República"
+      "holiday": "Feriado Nacional - Proclamação da República",
+      "year": 2024
     },
     {
       "day": 20,
       "month": 11,
-      "holiday": "Feriado Nacional - Dia Nacional de Zumbi e da Consciência Negra"
+      "holiday": "Feriado Nacional - Dia Nacional de Zumbi e da Consciência Negra",
+      "year": 2024
     },
     {
       "day": 24,
       "month": 12,
-      "holiday": "Ponto Facultativo - Véspera de Natal"
+      "holiday": "Ponto Facultativo - Véspera de Natal",
+      "year": 2024
     },
     {
       "day": 25,
       "month": 12,
-      "holiday": "Feriado Nacional - Natal"
+      "holiday": "Feriado Nacional - Natal",
+      "year": 2024
     },
     {
       "day": 31,
       "month": 12,
-      "holiday": "Ponto Facultativo - Véspera de Ano Novo"
+      "holiday": "Ponto Facultativo - Véspera de Ano Novo",
+      "year": 2024
     }
   ]
 }
