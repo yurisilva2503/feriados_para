@@ -1,0 +1,173 @@
+{
+  "feriados_manha": [
+    {
+      "day": 1,
+      "month": 1,
+      "holiday": "Feriado Nacional - Confraternização Universal"
+    },
+    {
+      "day": 12,
+      "month": 2,
+      "holiday": "Ponto Facultativo"
+    },
+    {
+      "day": 13,
+      "month": 2,
+      "holiday": "Ponto Facultativo - Carnaval"
+    },
+    {
+      "day": 14,
+      "month": 2,
+      "holiday": "Ponto Facultativo - Quarta-feira de Cinzas (Até 12h)",
+      "morningLimit": true
+    },
+    {
+      "day": 29,
+      "month": 3,
+      "holiday": "Feriado Nacional - Paixão de Cristo (Sexta-feira Santa)"
+    },
+    {
+      "day": 1,
+      "month": 5,
+      "holiday": "Feriado Nacional - Dia Mundial do Trabalho"
+    },
+    {
+      "day": 30,
+      "month": 5,
+      "holiday": "Feriado Nacional - Corpus Christi"
+    },
+    {
+      "day": 31,
+      "month": 5,
+      "holiday": "Ponto Facultativo"
+    },
+    {
+      "day": 15,
+      "month": 8,
+      "holiday": "Feriado Estadual - Adesão do Pará à Independência do Brasil"
+    },
+    {
+      "day": 16,
+      "month": 8,
+      "holiday": "Ponto Facultativo"
+    },
+    {
+      "day": 14,
+      "month": 10,
+      "holiday": "Ponto Facultativo - Pós Círio"
+    },
+    {
+      "day": 1,
+      "month": 11,
+      "holiday": "Transferência de Ponto Facultativo (Dia do Servidor Público) - Portaria 0464/2024 - SEPLAD"
+    },
+    {
+      "day": 15,
+      "month": 11,
+      "holiday": "Feriado Nacional - Proclamação da República"
+    },
+    {
+      "day": 20,
+      "month": 11,
+      "holiday": "Feriado Nacional - Dia Nacional de Zumbi e da Consciência Negra"
+    },
+    {
+      "day": 24,
+      "month": 12,
+      "holiday": "Ponto Facultativo - Véspera de Natal"
+    },
+    {
+      "day": 25,
+      "month": 12,
+      "holiday": "Feriado Nacional - Natal"
+    },
+    {
+      "day": 31,
+      "month": 12,
+      "holiday": "Ponto Facultativo - Véspera de Ano Novo"
+    }
+  ],
+
+  "feriados_tarde": [
+    {
+      "day": 1,
+      "month": 1,
+      "holiday": "Feriado Nacional - Confraternização Universal"
+    },
+    {
+      "day": 12,
+      "month": 2,
+      "holiday": "Ponto Facultativo"
+    },
+    {
+      "day": 13,
+      "month": 2,
+      "holiday": "Ponto Facultativo - Carnaval"
+    },
+    {
+      "day": 29,
+      "month": 3,
+      "holiday": "Feriado Nacional - Paixão de Cristo (Sexta-feira Santa)"
+    },
+    {
+      "day": 1,
+      "month": 5,
+      "holiday": "Feriado Nacional - Dia Mundial do Trabalho"
+    },
+    {
+      "day": 30,
+      "month": 5,
+      "holiday": "Feriado Nacional - Corpus Christi"
+    },
+    {
+      "day": 31,
+      "month": 5,
+      "holiday": "Ponto Facultativo"
+    },
+    {
+      "day": 15,
+      "month": 8,
+      "holiday": "Feriado Estadual - Adesão do Pará à Independência do Brasil"
+    },
+    {
+      "day": 16,
+      "month": 8,
+      "holiday": "Ponto Facultativo"
+    },
+    {
+      "day": 14,
+      "month": 10,
+      "holiday": "Ponto Facultativo - Pós Círio"
+    },
+    {
+      "day": 1,
+      "month": 11,
+      "holiday": "Transferência de Ponto Facultativo (Dia do Servidor Público) - Portaria 0464/2024 - SEPLAD"
+    },
+    {
+      "day": 15,
+      "month": 11,
+      "holiday": "Feriado Nacional - Proclamação da República"
+    },
+    {
+      "day": 20,
+      "month": 11,
+      "holiday": "Feriado Nacional - Dia Nacional de Zumbi e da Consciência Negra"
+    },
+    {
+      "day": 24,
+      "month": 12,
+      "holiday": "Ponto Facultativo - Véspera de Natal"
+    },
+    {
+      "day": 25,
+      "month": 12,
+      "holiday": "Feriado Nacional - Natal"
+    },
+    {
+      "day": 31,
+      "month": 12,
+      "holiday": "Ponto Facultativo - Véspera de Ano Novo"
+    }
+  ]
+}
