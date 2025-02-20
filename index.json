@@ -102,6 +102,156 @@
       "month": 12,
       "holiday": "Ponto Facultativo - Véspera de Ano Novo",
       "year": 2024
+    },
+    {
+      "day": 1,
+      "month": 11,
+      "holiday": "Feriado Nacional - Confraternização Universal",
+      "year": 2025
+    },
+    {
+      "day": 3,
+      "month": 3,
+      "holiday": "Ponto Facultativo",
+      "year": 2025
+    },
+    {
+      "day": 4,
+      "month": 3,
+      "holiday": "Ponto Facultativo - Carnaval",
+      "year": 2025
+    },
+    {
+      "day": 5,
+      "month": 3,
+      "holiday": "Ponto Facultativo - Quarta Feira de Cinzas (Até 12h)",
+      "year": 2025
+    },
+    {
+      "day": 18,
+      "month": 4,
+      "holiday": "Ponto Facultativo - Sexta-feira da Paixão",
+      "year": 2025
+    },
+    {
+      "day": 21,
+      "month": 4,
+      "holiday": "Feriado Nacional - Tiradentes",
+      "year": 2025
+    },
+    {
+      "day": 1,
+      "month": 5,
+      "holiday": "Feriado Nacional - Dia Mundial do Trabalho",
+      "year": 2025
+    },
+    {
+      "day": 2,
+      "month": 5,
+      "holiday": "Ponto Facultativo",
+      "year": 2025
+    },
+    {
+      "day": 19,
+      "month": 6,
+      "holiday": "Ponto Facultativo - Corpus Christi",
+      "year": 2025
+    },
+    {
+      "day": 20,
+      "month": 6,
+      "holiday": "Ponto Facultativo",
+      "year": 2025
+    },
+    {
+      "day": 15,
+      "month": 8,
+      "holiday": "Feriado Estadual - Adesão do Grão Pará à Independência do Brasil",
+      "year": 2025
+    },
+    {
+      "day": 7,
+      "month": 9,
+      "holiday": "Feriado Nacional - Independência do Brasil",
+      "year": 2025
+    },
+    {
+      "day": 12,
+      "month": 10,
+      "holiday": "Feriado Nacional - Nossa Senhora Aparecida",
+      "year": 2025
+    },
+    {
+      "day": 13,
+      "month": 10,
+      "holiday": "Ponto Facultativo - Pós Círio",
+      "year": 2025
+    },
+    {
+      "day": 27,
+      "month": 10,
+      "holiday": "Ponto Facultativo - Recírio",
+      "year": 2025
+    },
+    {
+      "day": 28,
+      "month": 10,
+      "holiday": "Ponto Facultativo - Dia do Servidor Público",
+      "year": 2025
+    },
+    {
+      "day": 2,
+      "month": 11,
+      "holiday": "Feriado Nacional - Finados",
+      "year": 2025
+    },
+    {
+      "day": 15,
+      "month": 11,
+      "holiday": "Feriado Nacional - Proclamação da República",
+      "year": 2025
+    },
+    {
+      "day": 20,
+      "month": 11,
+      "holiday": "Feriado Nacional - Dia Nacional de Zumbi e da Consciência Negra",
+      "year": 2025
+    },
+    {
+      "day": 21,
+      "month": 11,
+      "holiday": "Ponto Facultativo",
+      "year": 2025
+    },
+    {
+      "day": 8,
+      "month": 12,
+      "holiday": "Ponto Facultativo - Nossa Senhora da Conceição",
+      "year": 2025
+    },
+    {
+      "day": 24,
+      "month": 12,
+      "holiday": "Ponto Facultativo - Véspera de Natal",
+      "year": 2025
+    },
+    {
+      "day": 25,
+      "month": 12,
+      "holiday": "Feriado Nacional - Natal",
+      "year": 2025
+    },
+    {
+      "day": 26,
+      "month": 12,
+      "holiday": "Ponto Facultativo",
+      "year": 2025
+    },
+    {
+      "day": 31,
+      "month": 12,
+      "holiday": "Ponto Facultativo - Véspera de Ano Novo",
+      "year": 2025
     }
   ],
 
@@ -201,6 +351,150 @@
       "month": 12,
       "holiday": "Ponto Facultativo - Véspera de Ano Novo",
       "year": 2024
+    },
+    {
+      "day": 1,
+      "month": 11,
+      "holiday": "Feriado Nacional - Confraternização Universal",
+      "year": 2025
+    },
+    {
+      "day": 3,
+      "month": 3,
+      "holiday": "Ponto Facultativo",
+      "year": 2025
+    },
+    {
+      "day": 4,
+      "month": 3,
+      "holiday": "Ponto Facultativo - Carnaval",
+      "year": 2025
+    },
+    {
+      "day": 18,
+      "month": 4,
+      "holiday": "Ponto Facultativo - Sexta-feira da Paixão",
+      "year": 2025
+    },
+    {
+      "day": 21,
+      "month": 4,
+      "holiday": "Feriado Nacional - Tiradentes",
+      "year": 2025
+    },
+    {
+      "day": 1,
+      "month": 5,
+      "holiday": "Feriado Nacional - Dia Mundial do Trabalho",
+      "year": 2025
+    },
+    {
+      "day": 2,
+      "month": 5,
+      "holiday": "Ponto Facultativo",
+      "year": 2025
+    },
+    {
+      "day": 19,
+      "month": 6,
+      "holiday": "Ponto Facultativo - Corpus Christi",
+      "year": 2025
+    },
+    {
+      "day": 20,
+      "month": 6,
+      "holiday": "Ponto Facultativo",
+      "year": 2025
+    },
+    {
+      "day": 15,
+      "month": 8,
+      "holiday": "Feriado Estadual - Adesão do Grão Pará à Independência do Brasil",
+      "year": 2025
+    },
+    {
+      "day": 7,
+      "month": 9,
+      "holiday": "Feriado Nacional - Independência do Brasil",
+      "year": 2025
+    },
+    {
+      "day": 12,
+      "month": 10,
+      "holiday": "Feriado Nacional - Nossa Senhora Aparecida",
+      "year": 2025
+    },
+    {
+      "day": 13,
+      "month": 10,
+      "holiday": "Ponto Facultativo - Pós Círio",
+      "year": 2025
+    },
+    {
+      "day": 27,
+      "month": 10,
+      "holiday": "Ponto Facultativo - Recírio",
+      "year": 2025
+    },
+    {
+      "day": 28,
+      "month": 10,
+      "holiday": "Ponto Facultativo - Dia do Servidor Público",
+      "year": 2025
+    },
+    {
+      "day": 2,
+      "month": 11,
+      "holiday": "Feriado Nacional - Finados",
+      "year": 2025
+    },
+    {
+      "day": 15,
+      "month": 11,
+      "holiday": "Feriado Nacional - Proclamação da República",
+      "year": 2025
+    },
+    {
+      "day": 20,
+      "month": 11,
+      "holiday": "Feriado Nacional - Dia Nacional de Zumbi e da Consciência Negra",
+      "year": 2025
+    },
+    {
+      "day": 21,
+      "month": 11,
+      "holiday": "Ponto Facultativo",
+      "year": 2025
+    },
+    {
+      "day": 8,
+      "month": 12,
+      "holiday": "Ponto Facultativo - Nossa Senhora da Conceição",
+      "year": 2025
+    },
+    {
+      "day": 24,
+      "month": 12,
+      "holiday": "Ponto Facultativo - Véspera de Natal",
+      "year": 2025
+    },
+    {
+      "day": 25,
+      "month": 12,
+      "holiday": "Feriado Nacional - Natal",
+      "year": 2025
+    },
+    {
+      "day": 26,
+      "month": 12,
+      "holiday": "Ponto Facultativo",
+      "year": 2025
+    },
+    {
+      "day": 31,
+      "month": 12,
+      "holiday": "Ponto Facultativo - Véspera de Ano Novo",
+      "year": 2025
     }
   ]
 }
