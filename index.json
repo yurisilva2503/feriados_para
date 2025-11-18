@@ -104,12 +104,6 @@
       "year": 2024
     },
     {
-      "day": 1,
-      "month": 11,
-      "holiday": "Feriado Nacional - Confraternização Universal",
-      "year": 2025
-    },
-    {
       "day": 3,
       "month": 3,
       "holiday": "Ponto Facultativo",
@@ -190,19 +184,25 @@
     {
       "day": 27,
       "month": 10,
-      "holiday": "Ponto Facultativo - Recírio",
-      "year": 2025
-    },
-    {
-      "day": 28,
-      "month": 10,
-      "holiday": "Ponto Facultativo - Dia do Servidor Público",
+      "holiday": "Ponto Facultativo - Recírio / Dia do Servidor Público",
       "year": 2025
     },
     {
       "day": 2,
       "month": 11,
       "holiday": "Feriado Nacional - Finados",
+      "year": 2025
+    },
+    {
+      "day": 6,
+      "month": 11,
+      "holiday": "Ponto Facultativo - Decreto Nº 5.015",
+      "year": 2025
+    },
+    {
+      "day": 7,
+      "month": 11,
+      "holiday": "Ponto Facultativo - Decreto Nº 5.015",
       "year": 2025
     },
     {
@@ -353,12 +353,6 @@
       "year": 2024
     },
     {
-      "day": 1,
-      "month": 11,
-      "holiday": "Feriado Nacional - Confraternização Universal",
-      "year": 2025
-    },
-    {
       "day": 3,
       "month": 3,
       "holiday": "Ponto Facultativo",
@@ -433,19 +427,25 @@
     {
       "day": 27,
       "month": 10,
-      "holiday": "Ponto Facultativo - Recírio",
-      "year": 2025
-    },
-    {
-      "day": 28,
-      "month": 10,
-      "holiday": "Ponto Facultativo - Dia do Servidor Público",
+      "holiday": "Ponto Facultativo - Recírio / Dia do Servidor Público",
       "year": 2025
     },
     {
       "day": 2,
       "month": 11,
       "holiday": "Feriado Nacional - Finados",
+      "year": 2025
+    },
+    {
+      "day": 6,
+      "month": 11,
+      "holiday": "Ponto Facultativo - Decreto Nº 5.015",
+      "year": 2025
+    },
+    {
+      "day": 7,
+      "month": 11,
+      "holiday": "Ponto Facultativo - Decreto Nº 5.015",
       "year": 2025
     },
     {
